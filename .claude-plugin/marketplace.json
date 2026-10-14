@@ -1,0 +1,11 @@
+{
+  "name": "lesbar-marketplace",
+  "owner": { "name": "ceichmueller" },
+  "plugins": [
+    {
+      "name": "lesbar",
+      "source": ".",
+      "description": "Macht lange Arbeitsdokumente zum Durchsehen: Entscheidungen zuerst, Status sichtbar, Details als Tabelle — als selbsttragende HTML-Seite, ohne den Inhalt zu verändern."
+    }
+  ]
+}
