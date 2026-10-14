@@ -1,7 +1,7 @@
 {
   "name": "lesbar",
-  "description": "Bereitet ein langes Markdown-Arbeitsdokument — Plan, Analyse, Review, Konzept, Protokoll — als selbsttragende HTML-Seite zum Durchsehen auf. Trennt vier Schichten (Entscheidungen, Status, Arbeit, Kontext) und dreht die Reihenfolge um: oben steht, was der Leser tun oder entscheiden muss, Begründungen wandern nach unten. Status wird zur Form statt nur zum Wort, Dateilisten und Deltas bleiben scanbare Tabellen, Sätze mit Zusagecharakter bleiben wörtliche Zitate. Der Skill erfindet nichts dazu, fasst nicht zusammen und meldet Lücken oder Widersprüche der Quelle, statt sie still zu glätten.",
-  "version": "0.1.0",
+  "description": "Bereitet ein langes Markdown-Arbeitsdokument — Plan, Analyse, Review, Konzept, Protokoll — als selbsttragende HTML-Seite zum Durchsehen auf. Trennt vier Schichten (Entscheidungen, Status, Arbeit, Kontext) und dreht die Reihenfolge um: oben steht, was der Leser tun oder entscheiden muss, Begründungen wandern nach unten. Offene Fragen werden dabei beantwortbar: Optionen zum Ankreuzen, Freitext daneben, und ein Knopf baut daraus einen Antwortblock für die Zwischenablage — einfügen in die Agenten-Sitzung, und die Umsetzung läuft weiter. Status wird zur Form statt nur zum Wort, Dateilisten und Deltas bleiben scanbare Tabellen, Sätze mit Zusagecharakter bleiben wörtliche Zitate. Der Skill erfindet nichts dazu, fasst nicht zusammen und meldet Lücken oder Widersprüche der Quelle, statt sie still zu glätten.",
+  "version": "0.2.0",
   "author": {
     "name": "ceichmueller"
   },

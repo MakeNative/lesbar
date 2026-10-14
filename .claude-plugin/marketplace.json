@@ -5,7 +5,7 @@
     {
       "name": "lesbar",
       "source": ".",
-      "description": "Macht lange Arbeitsdokumente zum Durchsehen: Entscheidungen zuerst, Status sichtbar, Details als Tabelle — als selbsttragende HTML-Seite, ohne den Inhalt zu verändern."
+      "description": "Macht lange Arbeitsdokumente zum Durchsehen: Entscheidungen zuerst, Status sichtbar, Details als Tabelle — als selbsttragende HTML-Seite, ohne den Inhalt zu verändern. Offene Fragen lassen sich darin direkt beantworten und als Antwortblock zurück in die Sitzung geben."
     }
   ]
 }

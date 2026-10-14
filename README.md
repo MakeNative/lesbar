@@ -30,6 +30,22 @@ bleiben Tabellen statt in Fließtext aufgelöst zu werden. Sätze mit
 Zusagecharakter — eine Definition, eine Garantie, eine Regel — bleiben wörtliche
 Zitate. Und die erste Bildschirmseite zeigt nie eine Einleitung.
 
+## Antworten zurückgeben
+
+Steht im Dokument eine offene Entscheidung, wird sie nicht nur angezeigt,
+sondern ausgefüllt: die Optionen aus der Quelle zum Ankreuzen, ein Freitextfeld
+daneben. Unten zählt eine Leiste mit, wie viele Fragen beantwortet sind; ein
+Knopf baut daraus einen Antwortblock, zeigt ihn an und legt ihn in die
+Zwischenablage. Einfügen in die Agenten-Sitzung, abschicken — die Umsetzung
+läuft weiter. Unbeantwortete Fragen stehen als `— offen` darin, damit niemand
+rät. Eingaben überstehen ein Neuladen.
+
+Ein echtes „Senden" ist es nicht: eine veröffentlichte Seite läuft unter einer
+Content-Security-Policy, die jeden ausgehenden Request blockiert, und es gibt
+keinen Weg, von dort in eine laufende Sitzung zu schreiben. Die Zwischenablage
+ist der kürzeste Weg, der wirklich funktioniert — und der einzige, der auch in
+der lokalen Datei ohne Server läuft.
+
 ## Was er nicht macht
 
 Nichts erfinden, nichts abschwächen, nichts weglassen, was eine Entscheidung
