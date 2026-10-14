@@ -40,7 +40,7 @@ zu glätten.
 ## Installation
 
 ```bash
-/plugin marketplace add ceichmueller/lesbar
+/plugin marketplace add MakeNative/lesbar
 /plugin install lesbar@lesbar-marketplace
 ```
 
